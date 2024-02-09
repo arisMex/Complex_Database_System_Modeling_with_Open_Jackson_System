@@ -20,6 +20,6 @@ qui influent sur le fonctionnement du système et à identifier les configuratio
 optimales et à déterminer les conditions sous lesquelles le système atteint un régime
 permanent stable.
 
-**Le rapport complet du projet est disponible  [ici](Rapport_du_Projet.pdf).**
+**Le rapport complet du projet est disponible par  [ici](Rapport_du_Projet.pdf).**
 
 
