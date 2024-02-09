@@ -14,6 +14,9 @@ redirigée ultérieurement. L'étude approfondie de ce système s'articule autou
 paramètres tels que le nombre de serveurs, les temps de traitement de ces serveurs, les
 taux d'arrivée des requêtes, ainsi que les probabilités de sortie du système.
 
+![Data Base](Data/bdd.png)
+
+
 L'objectif central du projet est de mesurer la stabilité du système dans un état
 permanent. Cette évaluation repose sur une analyse approfondie des paramètres clés
 qui influent sur le fonctionnement du système et à identifier les configurations
