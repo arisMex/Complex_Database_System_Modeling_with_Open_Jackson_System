@@ -1,4 +1,4 @@
-# MIS_ProjetFinal
+# Modélisation d'un système complexe de base de données avec le système ouvert de Jackson
 
 ## **Introduction :**
 
