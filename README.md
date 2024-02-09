@@ -1,6 +1,6 @@
 # MIS_ProjetFinal
 
-**Introduction : **
+## **Introduction :**
 
 Dans le cadre de ce projet, nous explorons le fonctionnement d'une base de données
 distribuée sur plusieurs serveurs. Les requêtes des utilisateurs, générées selon une loi
